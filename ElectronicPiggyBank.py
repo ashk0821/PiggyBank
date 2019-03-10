@@ -1,5 +1,3 @@
-#Aashir Khan
-#Unit 2- Electronic Piggy Bank
 
 #I start off the program by welcoming the user, asking for the amount of money already in the piggy bank, and listing the options.
 print("Welcome to the Electronic Piggy Bank")
